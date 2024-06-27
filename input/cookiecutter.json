@@ -1,0 +1,5 @@
+{
+    "pattern_a": "{{ cookiecutter.pattern_b }}",
+    "pattern_b": "pattern_b",
+    "subfolder": "subfolder"
+}
